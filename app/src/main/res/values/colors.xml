@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#1e69ff</color>
+    <color name="colorAccent">#1e69ff</color>
+
+    <color name="stroke">#cac7c7</color>
+    <color name="light_bg">#ebebeb</color>
+    <color name="blue">#00AFFF</color>
+    <color name="green">#43c117</color>
+    <color name="StatusColor">#fd2e2b</color>
+    <color name="StatusColor0">#00000000</color>
+    <color name="main">#1d6aff</color>
+    <color name="lightmain">#1d6aff</color>
+    <color name="refreshred">#fd1f24</color>
+    <color name="red">#fe2e2c</color>
+    <color name="cheng">#EB5516</color>
+    <color name="org">#ff6300</color>
+    <color name="yellow">#ffff00</color>
+    <color name="bg_msg">#ff6600</color>
+    <color name="huibt">#e3e8ee</color>
+    <color name="black">#000000</color>
+    <color name="blackt">#111111</color>
+    <color name="txtblue">#1e69ff</color>
+    <color name="txtlightblue">#586e9d</color>
+    <color name="txtorg">#fc5f33</color>
+    <color name="txthui">#999999</color>
+    <color name="txthui2">#555555</color>
+    <color name="txthui3">#cccccc</color>
+    <color name="lightgray">#ffcccccc</color>
+    <color name="ShapStart">#e10207</color>
+    <color name="ShapEnd">#fc471a</color>
+    <color name="transparent">#00000000</color>
+    <color name="bg">#f4f4f4</color>
+    <color name="xian">#e7e7e7</color>
+    <color name="white">#ffffff</color>
+    <color name="whiteAlpha">#99ffffff</color>
+    <color name="refresh_bg">#f4f4f4</color>
+    <color name="line_color">#e7e7e7</color>
+    <color name="myInputPwdBase_blue">#0887ee</color>
+    <color name="myInputPwdBase_gray">#f0f0f6</color>
+    <!--一级标题 -->
+    <color name="text3">#333333</color>
+    <!--二级标题 -->
+    <color name="text6">#666666</color>
+    <!--三级标题 -->
+    <color name="text9">#999999</color>
+    <color name="txtred">#ff2e11</color>
+    <color name="txtlightred">#fb7e82</color>
+
+    <color name="prompt_success">#31c27c</color>
+    <color name="prompt_error">#ff0000</color>
+    <color name="prompt_warning">#f0633d</color>
+
+    <!--特殊情况下 模拟底部背景色-->
+    <color name="bg_all">#f7f7f9</color>
+    <color name="base_text">#000000</color>
+    <color name="base_texthint">#999999</color>
+    <color name="bg_empty">#636979</color>
+
+
+    <!--星期的颜色值-->
+    <color name="mn_calendar_color_text_week">#5E5E5E</color>
+    <!--日历Item的阳历的颜色值-->
+    <color name="mn_calendar_color_text_solar">#282828</color>
+    <!--日历Item的阴历的颜色值-->
+    <color name="mn_calendar_color_text_lunar">#979797</color>
+    <!--日历今天圆形背景-->
+    <color name="mn_calendar_color_today_bg">#282828</color>
+    <!--线-->
+    <color name="mn_calendar_color_line">#CCCCCC</color>
+    <!--白色-->
+    <color name="mn_calendar_color_white">#FFFFFF</color>
+    <!--不是当前月份的阳历的颜色-->
+    <color name="mn_calendar_color_other_month">#979797</color>
+
+    <!--日历Item事件的背景-->
+    <color name="mn_calendar_color_event_bg">#fc8853</color>
+    <!--白灰色-->
+    <color name="mn_calendar_color_gray_white">#dfdfdf</color>
+
+
+</resources>
